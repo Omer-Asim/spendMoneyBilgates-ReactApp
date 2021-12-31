@@ -1,0 +1,155 @@
+[
+  {
+    "id": 2,
+    "baslik": "1 Litre Süt",
+    "fiyat": 0.5,
+    "resim": "https://128milyardolar.net/_assets/img/urun/sut.jpg"
+  },
+  {
+    "id": 1,
+    "baslik": "10 tane ekmek",
+    "fiyat": 2,
+    "resim": "https://128milyardolar.net/_assets/img/urun/ekmek.jpg"
+  },
+
+  {
+    "id": 7,
+    "baslik": "Big Mac Menu",
+    "fiyat": 3,
+    "resim": "https://128milyardolar.net/_assets/img/urun/bigmac.jpg"
+  },
+
+  {
+    "id": 4,
+    "baslik": "10 Kilo Patates + 10 Kilo Soğan",
+    "fiyat": 4,
+    "resim": "https://i4.hurimg.com/i/hurriyet/75/770x0/6070bcce18c7733fdc30f9a2.jpg"
+  },
+  {
+    "id": 12,
+    "baslik": "1 KG Kuzu Pirzola",
+    "fiyat": 10,
+    "resim": "https://128milyardolar.net/_assets/img/urun/pirzola.jpg"
+  },
+
+  {
+    "id": 3,
+    "baslik": "BionTech Aşı (2 Doz)",
+    "fiyat": 50,
+    "resim": "https://128milyardolar.net/_assets/img/urun/biontech.jpg"
+  },
+
+  {
+    "id": 24,
+    "baslik": "1 Yıllık Netflix",
+    "fiyat": 50,
+    "resim": "https://www.webtekno.com/images/editor/default/0002/49/2ec49d0eef78aae8e9d1b6fe4e14e813be3039e1.jpeg"
+  },
+
+  {
+    "id": 18,
+    "baslik": "Nike Air Max 97",
+    "fiyat": 190,
+    "resim": "https://128milyardolar.net/_assets/img/urun/airmax.jpg"
+  },
+  {
+    "id": 6,
+    "baslik": "PlayStation 5",
+    "fiyat": 1000,
+    "resim": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+  },
+  {
+    "id": 11,
+    "baslik": "iPhone 12 Pro Max 512 GB",
+    "fiyat": 2500,
+    "resim": "https://128milyardolar.net/_assets/img/urun/iphone12.jpg"
+  },
+  {
+    "id": 33,
+    "baslik": "Rolex Saat",
+    "fiyat": 15000,
+    "resim": "https://neal.fun/spend/images/rolex.jpg"
+  },
+  {
+    "id": 40,
+    "baslik": "Fiat Doblo Combi 1.6 Multijet",
+    "fiyat": 15000,
+    "resim": "https://otomobil.fiat.com.tr/content/dam/fiat/cross/models/Doblo_family/doblo/Trims/2/768/big/interiors.jpg"
+  },
+  {
+    "id": 15,
+    "baslik": "2+1 Ev",
+    "fiyat": 35000,
+    "resim": "https://www.gezerilaclama.com/wp-content/uploads/2014/01/bina-ilaclama.jpg"
+  },
+  {
+    "id": 10,
+    "baslik": "Bitcoin",
+    "fiyat": 50000,
+    "resim": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1049&q=80"
+  },
+  {
+    "id": 25,
+    "baslik": "Tesla",
+    "fiyat": 250000,
+    "resim": "https://images.unsplash.com/photo-1617704548623-340376564e68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+
+  {
+    "id": 8,
+    "baslik": "Porsche Cayenne",
+    "fiyat": 300000,
+    "resim": "https://128milyardolar.net/_assets/img/urun/porsche.jpg"
+  },
+  {
+    "id": 13,
+    "baslik": "Ferrari",
+    "fiyat": 400000,
+    "resim": "https://images.unsplash.com/photo-1610847499832-918a1c3c6811?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 20,
+    "baslik": "Havuzlu Villa",
+    "fiyat": 1500000,
+    "resim": "https://gezentianne.com/wp-content/uploads/2021/06/ozel_havuzlu_kiralik_villa-1024x683.jpg"
+  },
+  {
+    "id": 9,
+    "baslik": "Lil Uzi Vert’in Alnındaki Elmas",
+    "fiyat": 24000000,
+    "resim": "https://iatkv.tmgrup.com.tr/e70a18/0/0/0/0/0/0?u=https%3A%2F%2Fitkv.tmgrup.com.tr%2F2021%2F02%2F04%2Fyok-boyle-gorgusuzluk-lil-uzi-vert-alnina-170-milyon-tllik-elmas-taktirdi-1612444194035.jpg&mw=600"
+  },
+  {
+    "id": 14,
+    "baslik": "Cruise Gemi",
+    "fiyat": 35000000,
+    "resim": "https://tatilsepeti.cubecdn.net/wwwroot/images/tur/gemi/gemi_turu_birlesik_arap_emirlikleri.jpg"
+  },
+  {
+    "id": 14,
+    "baslik": "Kylian Mbappe",
+    "fiyat": 180000000,
+    "resim": "https://imgrosetta.mynet.com.tr/file/13338183/13338183-1200x824.jpg"
+  },
+
+  {
+    "id": 5,
+    "baslik": "Burj Khalifa",
+    "fiyat": 1500000000,
+    "resim": "https://128milyardolar.net/_assets/img/urun/burjkhalifa.jpg"
+  },
+
+  {
+    "id": 21,
+    "baslik": "İstanbul-İzmir Otoyolu",
+    "fiyat": 11000000000,
+    "resim": "https://128milyardolar.net/_assets/img/urun/duble.jpg"
+  },
+
+  {
+    "id": 23,
+    "baslik": "Altın Musluk",
+    "fiyat": 1500,
+    "resim": "https://128milyardolar.net/_assets/img/urun/altin_musluk.jpg"
+  }
+]
